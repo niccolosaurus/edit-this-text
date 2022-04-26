@@ -1,5 +1,5 @@
 {
-  "name": "edit-this-text",
+  "name": "JATE",
   "version": "1.0.0",
   "description": "A text editor using PWA. It will be available both on and offine.",
   "main": "server.js",
